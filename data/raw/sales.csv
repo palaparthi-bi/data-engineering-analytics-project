@@ -1,5 +1,8 @@
-product_id,quantity,price,sale_date
-101,2,50,2024-01-01
-102,1,30,2024-01-02
-101,3,50,2024-01-03
-103,5,20,2024-01-04
+product_id,product_name,category,quantity,price,sale_date
+101,Keyboard,Electronics,2,50,2024-01-01
+102,Mouse,Electronics,1,30,2024-01-02
+101,Keyboard,Electronics,3,50,2024-01-03
+103,USB Cable,Accessories,5,20,2024-01-04
+104,Laptop Stand,Accessories,1,150,2024-01-05
+102,Mouse,Electronics,2,30,2024-01-06
+103,USB Cable,Accessories,4,20,2024-01-07
